@@ -1,3 +1,8 @@
+# Added by Trevor Martin
+*.csv~
+*.md~
+*.py~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
